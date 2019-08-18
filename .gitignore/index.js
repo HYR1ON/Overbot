@@ -8,7 +8,7 @@ const warns = JSON.parse(fs.readFileSync('./warns.json'))
 const bans = JSON.parse(fs.readFileSync('./bans.json'))
 const kick = JSON.parse(fs.readFileSync('./kicks.json'))
 
-client.login("NjEyMjIwODg2NTMxMDQ3NDI1.XVnRig.Rbxh7SxOXOhdxB16rKBipz11BeQ")
+client.login("NjEyMjIwODg2NTMxMDQ3NDI1.XVnSag.xLeQfJzAKykCoTRx3OquLIxXF_g")
 
 //message d'arrivé
 client.on("guildMemberAdd", user =>{
